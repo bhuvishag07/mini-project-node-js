@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "participantName": "Priya",
+    "email": "priya@gmail.com",
+    "eventName": "Code Sprint"
+  },
+  {
+    "id": 2,
+    "participantName": "Priya",
+    "email": "priya@gmail.com",
+    "eventName": "Hackathon"
+  }
+]
